@@ -1,0 +1,5 @@
+setup.py
+Simeple_PairsTrading.egg-info/PKG-INFO
+Simeple_PairsTrading.egg-info/SOURCES.txt
+Simeple_PairsTrading.egg-info/dependency_links.txt
+Simeple_PairsTrading.egg-info/top_level.txt
