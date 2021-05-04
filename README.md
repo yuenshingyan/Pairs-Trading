@@ -1,4 +1,4 @@
-Pairs_trading aim to help the algorithmic trading community to find the potential candidates for pairs trading.
+Pairs_trading aim to help the algorithmic trading community to find the potential candidates base on metrics like cointegrating relationship between the candidates, stationarity of the spreads, level of persistent of the series, the frequency of mean reversion and also the half-life of the spreads for pairs trading.
 
 1) add(syms, start, end)
    add symbols and desired time period 
